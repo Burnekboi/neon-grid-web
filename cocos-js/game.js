@@ -1,0 +1,1 @@
+// no-op stub for the cocos-js subpackage entry
