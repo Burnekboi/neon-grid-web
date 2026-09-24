@@ -1,12 +1,6 @@
 {
     "deviceOrientation": "portrait",
     "showStatusBar": false,
-    "subpackages": [
-        {
-            "name": "cocos-js",
-            "root": "cocos-js/"
-        }
-    ],
     "networkTimeout": {
         "request": 5000,
         "connectSocket": 5000,

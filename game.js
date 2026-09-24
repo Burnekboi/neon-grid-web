@@ -1,8 +1,7 @@
 
 
 
-tt.loadSubpackage({ name: 'cocos-js', success: doStart, fail: doStart });
-function doStart(){loadCC();}
+loadCC();
 
 
 function loadCC() {
